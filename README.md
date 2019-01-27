@@ -1,0 +1,2 @@
+# HABLA
+HABLA lexicon resource
