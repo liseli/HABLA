@@ -14,5 +14,7 @@ top10_PT2SP_translations.txt: discourse markers translation between Spanish and 
 # Citation
 
 ```
-Sepúlveda-Torres L., Sanches Duran M. and Aluísio S. (forthcoming, 2019) Automatic Detection and Correction of Discourse Marker Errors Made by Spanish Native Speakers in Portuguese Academic Writing. Language Resources and Evaluation Journal.
+Sepúlveda-Torres L., Sanches Duran M. and Aluísio S. (forthcoming, 2019) Automatic Detection and Correction 
+of Discourse Marker Errors Made by Spanish Native Speakers in Portuguese Academic Writing. 
+Language Resources and Evaluation Journal.
 ```
